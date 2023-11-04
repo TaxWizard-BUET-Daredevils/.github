@@ -14,5 +14,6 @@
 
 - [Backend](https://github.com/TaxWizard-BUET-Daredevils/TaxWizard_Backend)
 - [Frontend](https://github.com/TaxWizard-BUET-Daredevils/TaxWizard_Frontend)
-- [Infra](https://github.com/TaxWizard-BUET-Daredevils/infra)
+- [Infrastructure](https://github.com/TaxWizard-BUET-Daredevils/infra)
+- [Data Analytics](https://github.com/TaxWizard-BUET-Daredevils/Data-Analysis), [Live Hosting](https://github.com/TaxWizard-BUET-Daredevils/TaxWizard-BUET-Daredevils.github.io)
 
